@@ -7,21 +7,18 @@
 
 バックエンド・フロントエンドをいじりながら暮らしてるオタクです
 
-### スキル
-* **使用言語**
-  * Python3
-  * C#
-  * SQL (勉強中)
-  * HTML/CSS/JavaScript
+### フロント
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-* **フレームワーク**
-  * Flask
+### バックエンド
+[![My Skills](https://skillicons.dev/icons?i=cs,java,py)](https://skillicons.dev)
 
-### 目標
-Back-end Engineer
+### その他
+[![My Skills](https://skillicons.dev/icons?i=django,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
-### ポートフォリオ
-まだないです(これから作成していきます!)
+### ツール
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=light)](https://skillicons.dev)
 
 ### その他
 
