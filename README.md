@@ -27,3 +27,4 @@ Back-end Engineer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuki-1118)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuki-1118&theme=dark&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-1118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
