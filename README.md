@@ -3,9 +3,8 @@ Yukiです。17歳です。鹿児島高専の学生です。
 
 バックエンド・フロントエンドをいじりながら暮らしてるオタクです
 
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-
-### その他
 [![My Skills](https://skillicons.dev/icons?i=django,flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
