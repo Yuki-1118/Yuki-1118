@@ -12,10 +12,10 @@
  メタバースとかにも興味があったりする。
  
  ## GitHub Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yuki-1118&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-1118&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yuki-111&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=ture" />
 </p>
 
 ## Language & Skills
