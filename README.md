@@ -13,10 +13,9 @@
  
  ## GitHub Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqyuki)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqyuki)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Language & Skills
 <p align="left"> 
