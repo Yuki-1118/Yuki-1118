@@ -1,3 +1,17 @@
+<style>
+  .flex-content-box{
+    display:flex;
+  }
+  .flex-content-left{
+    margin-right:10px;
+  }
+  .flex-content-right{
+    margin-left:10px;
+  }
+</style>
+
+
+
 # Hello!!
 
 ## Profile
@@ -28,12 +42,22 @@
 
 
  ## GitHub Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div class=flex-content-box>
+<div class=flex-content-left>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqyuki)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
+</div>
+<div class=flex-content-right>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+</div>
+
+## Skills
 
 ### Language
 
