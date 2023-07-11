@@ -3,7 +3,7 @@
     display:flex;
   }
   .flex-content-left{
-    margin-right:10px;
+    margin-right:5px;
   }
 </style>
 
