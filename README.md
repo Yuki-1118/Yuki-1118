@@ -1,7 +1,7 @@
 
 # Hello!!
 
-## 🌕 Profile
+## Profile
 * **Name**
   * K.Yosuke
 * **Age**
