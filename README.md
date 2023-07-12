@@ -6,7 +6,7 @@
   * K.Yosuke
 * **Age**
   * 17
-* **Membler**
+* **Member**
   * NIT of Kagoshima college
 
  鹿児島高専の学生です。普段は**Go**や**Python**を使ってサーバーを書いてます。
