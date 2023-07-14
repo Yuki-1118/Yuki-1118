@@ -11,7 +11,7 @@ I want to become Engineers who help them streaming.
   * 17
 * **Member**
   * NIT of Kagoshima college
-*
+
 ## 💻 Develop environments
 
 * OS
