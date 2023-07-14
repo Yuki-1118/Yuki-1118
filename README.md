@@ -1,51 +1,51 @@
 
-# Hello!!
+# Hello!
 
-## Profile
+I'm  Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber** and **Technology of Information**.
+I want to become Engineers who help them streaming.
+
+## 📝 Profile
 * **Name**
   * K.Yosuke
 * **Age**
   * 17
 * **Member**
   * NIT of Kagoshima college
-
- 鹿児島高専の学生です。普段は**Go**や**Python**を使ってサーバーを書いてます。
- 専門はバックエンド系。WebAPIとかをよく作ってます。
-
- 将来は、VTuberとかの配信をサポートするような仕事をしたい。<br>
- メタバースとかにも興味があったりする。
-
-## Develop environments
+*
+## 💻 Develop environments
 
 * OS
-  * **Ubuntu Desktop**
+  * **Windows10**
 * Editor
   * **Visual Studio Code**
   * **nano**
-* Shell
-  * **Bash**
 * Others
   * **Git** & **Git Hub**
 
 
  ## 📈 Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&theme=light&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
-  <img alt="GitHub Status" height="150px" src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&theme=dark">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact&theme=dark">
+  <img alt="GitHub Status" height="150px" src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&theme=light">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact&theme=light">
 </p>
 
 ## 🌱 Skills
 
 ### Language
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,js,ts&theme=light)](https://skillicons.dev)
 
 ### Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker&theme=light)](https://skillicons.dev)
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,react,flask,django&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,react&theme=light)](https://skillicons.dev)
+
+## 📧 Contact
+
+**Busy** : Monday through Friday, 7:00 a.m. to 5:00 p.m.<br>
+
