@@ -1,16 +1,7 @@
-<style>
-  .flex{
-    display:flex;
-  }
-</style>
-
 # Hello!
 
 I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber** and **Technology of Information**.
 I want to become Engineers who help them streaming.
-
-<div class="flex">
-<div style="margin:auto;">
 
 ## 📝 Profile
 
@@ -35,9 +26,6 @@ I want to become Engineers who help them streaming.
   - **nano**
 - Others
   - **Git** & **Git Hub**
-
-</div>
-</div>
 
 ## 📈 Status
 
