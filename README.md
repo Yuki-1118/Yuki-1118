@@ -11,8 +11,8 @@ I want to become Engineers who help them streaming.
   - 17
 - **Member**
   - NIT of Kagoshima college
-- **My Page**s
-  - [ユキ : Lighthouse to the Future](https://me.aq-yuki.net/)
+- **My Page**
+  - [My Page](https://me.aq-yuki.net/)
 
 </div>
 <div style="margin:auto;">
