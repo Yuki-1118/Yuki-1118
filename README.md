@@ -1,7 +1,6 @@
 # Hello!
 
-I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber** and **Technology of Information**.
-I want to become Engineers who help them streaming.
+I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber**.
 
 ## 📝 Profile
 
@@ -11,8 +10,7 @@ I want to become Engineers who help them streaming.
   - 17
 - **Member**
   - NIT of Kagoshima college
-- **My Page**
-  - [My Page](https://me.aq-yuki.net/)
+- [My Web sight](https://me.aq-yuki.net)
 
 </div>
 <div style="margin:auto;">
@@ -41,15 +39,19 @@ I want to become Engineers who help them streaming.
 
 ### Language
 
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,js,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,python,scala,java,html,css&theme=light)](https://skillicons.dev)
 
 ### Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,git,github,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,powershell,bash,docker&theme=light)](https://skillicons.dev)
+
+### Framework/PaaS
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,vercel,netlify&theme=light)](https://skillicons.dev)
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 ## 📧 Contact
 
