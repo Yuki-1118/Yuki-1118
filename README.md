@@ -1,3 +1,14 @@
+<style>
+  .flex-box{
+    display: flex;
+  }
+
+  .mx-10{
+    margin-left:10px;
+    margin-right:10px;
+  }
+</style>
+
 # Hello!
 
 I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber**.
@@ -27,32 +38,67 @@ I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tub
 
 ## 📈 Status
 
+<div class="flex-box">
+
+<img alt="GitHub Status" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=default">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=default&utcOffset=8">
+
+</div>
+
 <p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aqyuki&theme=light&no-frame=true&itle=Commits,Repositories,Issues,PullRequest,Reviews,Followers&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-<img alt="GitHub Status" height="200px" src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&theme=light">
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact&theme=light">
 
 </p>
 
-## 🌱 Skills
+## 🌱 Language
 
-### Language
+<div class="flex-box">
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,python,scala,java,html,css&theme=light)](https://skillicons.dev)
+<div class="mx-10">
 
-### Use Tools
+### Front
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,powershell,bash,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js&theme=light)](https://skillicons.dev)
 
-### Framework/PaaS
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,vercel,netlify&theme=light)](https://skillicons.dev)
+<div class="mx-10">
+
+### Back
+
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,python&theme=light)](https://skillicons.dev)
+
+</div>
+
+<div class="mx-10">
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,scala&theme=light)](https://skillicons.dev)
 
-## 📧 Contact
+</div>
 
-**Busy** : Monday through Friday, 7:00 a.m. to 5:00 p.m.<br>
+</div>
+
+<div class="flex-box">
+
+<div class="mx-10">
+
+## 🔨 Tool
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,powershell,bash,docker&theme=light&perline=4)](https://skillicons.dev)
+
+</div>
+
+<div class="mx-10">
+
+## ✨ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,vercel,netlify,postgres,mysql,sqlite&theme=light&perline=4)](https://skillicons.dev)
+
+</div>
+
+</div>
