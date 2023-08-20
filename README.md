@@ -1,6 +1,6 @@
-# Hello!
+## ✨ Skill
 
-I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tuber**.
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,react,nextjs,tailwind,linux,mysql,sqlite,postgresql,vscode,git,github,bash,powershell,docker,discord,twitter&theme=light)](https://skillicons.dev)
 
 ## 📝 Profile
 
@@ -10,17 +10,9 @@ I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tub
   - 17
 - **Member**
   - NIT of Kagoshima college
-- [My Web sight](https://me.aq-yuki.net)
+- [My portfolio](https://me.aq-yuki.net)
 
-## 💻 Develop environments
-
-- OS
-  - **Windows10**
-- Editor
-  - **Visual Studio Code**
-  - **nano**
-- Others
-  - **Git** & **Git Hub**
+**V-Tuber lover**
 
 ## 📈 Status
 
@@ -38,25 +30,3 @@ I'm Kagoshima National Institute of Technology student, K.Yosuke! I love **V-Tub
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact&theme=light">
 
 </p>
-
-## 🌱 Language
-
-### Front
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js&theme=light)](https://skillicons.dev)
-
-### Back
-
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,python&theme=light)](https://skillicons.dev)
-
-### Others
-
-[![My Skills](https://skillicons.dev/icons?i=java,scala&theme=light)](https://skillicons.dev)
-
-## 🔨 Tool
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,powershell,bash,docker&theme=light&perline=4)](https://skillicons.dev)
-
-## ✨ Skills
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,vercel,netlify,postgres,mysql,sqlite&theme=light&perline=4)](https://skillicons.dev)
