@@ -1,6 +1,6 @@
 ## ✨ Skill
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,react,nextjs,tailwind,linux,mysql,sqlite,postgresql,vscode,git,github,bash,powershell,docker,discord,twitter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,rust,react,nextjs,tailwind,linux,mysql,sqlite,postgresql,vscode,git,github,bash,powershell,docker,discord,twitter&theme=dark)](https://skillicons.dev)
 
 ## 📝 Profile
 
