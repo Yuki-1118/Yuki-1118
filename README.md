@@ -4,7 +4,7 @@
 
 普段は、CLI ツールや TUI ツール・ちょっとした API サーバーとかを作ってます。
 
-他のつよつよエンジニアの方をみんな尊敬しています
+つよつよエンジニアの方をみんな尊敬しています
 
 プログラミングや VTuber の配信を見るのが好きです。
 
@@ -12,7 +12,7 @@
 
 - Go
 
-  僕のメイン言語です。API サーバーを作ったり、CLI ツールを作ったりしています。
+  メインで使ってる言語です。API サーバーを作ったり、CLI ツールを作ったりしています。
 
   始めたきっかけは、行きたい企業が使っていたため
 
@@ -54,12 +54,6 @@
 
   さわれます（さわれるだけです）
 
-## 開発環境
-
-普段は自宅鯖の**Ubuntu Server**に VSCode を使ってリモート接続して開発をしています。
-
-メイン機は、第 3 世代 Corei7
-
 ## 所属コミュニティなど
 
 - Kloud
@@ -80,6 +74,6 @@ etc.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact" height=200>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=180>
+<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=200>
 
 </p>
