@@ -76,6 +76,10 @@ etc.
 
 ## GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqyuki)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact" height=200>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=180>
+
+</p>
