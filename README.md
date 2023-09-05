@@ -74,6 +74,6 @@ etc.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact" height=200>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=200>
+<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=180>
 
 </p>
