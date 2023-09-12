@@ -24,19 +24,9 @@
 
 - TypeScript
 
-  勉強中です。どうしても`async`・`await`が理解できない
-
 - C#
 
-  一応、書けるし読める
-
-  ただ最近使って無い
-
 - JAVA
-
-  C#に同じく
-
-  偶に**Minecraft**のプラグインを書いたりする
 
 - Git/GitHub
 
