@@ -40,16 +40,15 @@
 
   クリーンアーキテクチャに関しては理解が正しいかは不明
 
-- Docker
+- Docker・Docker compose
 
-  さわれます（さわれるだけです）
+  自分で作ったアプリを、Dockerfile にまとめて自宅サバ上に Docker を使ってデプロイしたりしています。<br>
+  自分で`Dockerfile`や`Docker-compose.yml`にまとめるぐらいならできます。
 
 ## 所属コミュニティなど
 
 - Kloud
 - 限界開発鯖
-
-etc.
 
 ## 各種リンク
 
