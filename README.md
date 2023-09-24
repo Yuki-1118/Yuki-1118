@@ -8,25 +8,15 @@
 
 プログラミングや VTuber の配信を見るのが好きです。
 
-## スキルなど
+## 使用言語
 
 - Go
 
-  メインで使ってる言語です。API サーバーを作ったり、CLI ツールを作ったりしています。
-
-  始めたきっかけは、行きたい企業が使っていたため
-
 - Rust
-
-  最近勉強を始めました。
-
-  いつか使いこなしたい
 
 - TypeScript
 
-- C#
-
-- JAVA
+## スキル
 
 - Git/GitHub
 
@@ -36,24 +26,20 @@
 
 - MariaDB/MySQL/PostgreSQL
 
-- Clean Architecture/テスト駆動開発
-
-  クリーンアーキテクチャに関しては理解が正しいかは不明
-
 - Docker・Docker compose
-
-  自分で作ったアプリを、Dockerfile にまとめて自宅サバ上に Docker を使ってデプロイしたりしています。<br>
-  自分で`Dockerfile`や`Docker-compose.yml`にまとめるぐらいならできます。
 
 ## 所属コミュニティなど
 
 - Kloud
+
 - 限界開発鯖
 
 ## 各種リンク
 
 - [X](https://www.x.com/yuki_pc_it)
+
 - [Zenn](https://zenn.dev/aqyuki)
+
 - [Web](https://me.aq-yuki.net)
 
 ## GitHub Status
