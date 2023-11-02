@@ -1,48 +1,45 @@
-## 自己紹介
+## About Me
 
-高専生をしてます。
+I'm a student of National Institute of Technology of Kagoshima college. 18 years old.\
+I love VTuber's live streaming.
 
-普段は、CLI ツールや TUI ツール・ちょっとした API サーバーとかを作ってます。
-
-つよつよエンジニアの方をみんな尊敬しています
-
-プログラミングや VTuber の配信を見るのが好きです。
-
-## 使用言語
+## Skills
 
 - Go
 
-- Rust
+  I love this language. I often use to create CLI tools and simple Web API
 
 - TypeScript
 
-## スキル
+  I use to create my [web page](https://me.aq-yuki.net).
 
-- Git/GitHub
+- Rust
 
-- GitHub Actions
+  I have interest. I'm learning now and I want to create CLI tools by Rust
+
+- Git / GitHub
 
 - SQL
 
-- MariaDB/MySQL/PostgreSQL
+  I can create SQL. I'm learning.
 
-- Docker・Docker compose
+- Databases
 
-## 所属コミュニティなど
+  I often use PostgreSQL by personal projects.
 
-- Kloud
+- Docker / Docker compose
 
-- 限界開発鯖
+- English
 
-## 各種リンク
+  **I'm studying**
 
-- [X](https://www.x.com/yuki_pc_it)
+### Links
 
+- [X](https://x.com/yuki_pc_it)
 - [Zenn](https://zenn.dev/aqyuki)
+- [Web](https://me.aq-yuki)
 
-- [Web](https://me.aq-yuki.net)
-
-## GitHub Status
+## Other Information
 
 <p>
 
