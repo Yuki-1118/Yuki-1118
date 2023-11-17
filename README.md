@@ -35,7 +35,7 @@ I love VTuber's live streaming.
 
 ### Links
 
-- [X](https://x.com/yuki_pc_it)
+- [X](https://x.com/aqyuki21s)
 - [Zenn](https://zenn.dev/aqyuki)
 - [Web](https://me.aq-yuki)
 
