@@ -1,50 +1,26 @@
-## About Me
+### Hey 👋, I'm aqyuki
 
-I'm a student of National Institute of Technology of Kagoshima college. 18 years old.\
-I love VTuber's live streaming.
+I'm a student.\
+I love [Go](https://go.dev/) and [hololive](https://hololivepro.com/).\
+I'm learning to use **Go** more fully.
 
-## Skills
+### ✨ Skills
 
-- Go
+[
+![skills](https://skillicons.dev/icons?theme=light&i=go,typescript,astro,nextjs&perline=4)
+](https://skillicons.dev)
 
-  I love this language. I often use to create CLI tools and simple Web API
+[
+![skills](https://skillicons.dev/icons?theme=light&i=docker,git,github,githubactions&perline=4)
+](https://skillicons.dev)
 
-- TypeScript
+[
+![skills](https://skillicons.dev/icons?theme=light&i=vscode,bash,windows,linux,discord,cloudflare&perline=4)
+](https://skillicons.dev)
 
-  I use to create my [web page](https://me.aq-yuki.net).
+### 🎉 Activity
 
-- Rust
+![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en)
 
-  I have interest. I'm learning now and I want to create CLI tools by Rust
-
-- Git / GitHub
-
-- SQL
-
-  I can create SQL. I'm learning.
-
-- Databases
-
-  I often use PostgreSQL by personal projects.
-
-- Docker / Docker compose
-
-- English
-
-  **I'm studying**
-
-### Links
-
-- [X](https://x.com/aqyuki21s)
-- [Zenn](https://zenn.dev/aqyuki)
-- [Web](https://www.aqyuki.dev)
-
-## Other Information
-
-<p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqyuki&layout=compact" height=200>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true" height=180>
-
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=github&utcOffset=8)
