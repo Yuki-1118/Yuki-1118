@@ -7,20 +7,20 @@ I'm learning to use **Go** more fully.
 ### ✨ Skills
 
 [
-![skills](https://skillicons.dev/icons?theme=light&i=go,typescript,astro,nextjs&perline=4)
+![skills](https://skillicons.dev/icons?theme=dark&i=go,typescript,astro,nextjs&perline=4)
 ](https://skillicons.dev)
 
 [
-![skills](https://skillicons.dev/icons?theme=light&i=docker,git,github,githubactions&perline=4)
+![skills](https://skillicons.dev/icons?theme=dark&i=docker,git,github,githubactions&perline=4)
 ](https://skillicons.dev)
 
 [
-![skills](https://skillicons.dev/icons?theme=light&i=vscode,bash,windows,linux,discord,cloudflare&perline=4)
+![skills](https://skillicons.dev/icons?theme=dark&i=vscode,bash,windows,linux,discord,cloudflare&perline=4)
 ](https://skillicons.dev)
 
 ### 🎉 Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=github_dark&utcOffset=8)
