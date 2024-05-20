@@ -20,7 +20,7 @@ I'm learning to use **Go** more fully.
 
 ### 🎉 Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=github_dark&utcOffset=8)
