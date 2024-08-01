@@ -6,21 +6,64 @@ I'm learning to use **Go** more fully.
 
 ### ✨ Skills
 
-[
-![skills](https://skillicons.dev/icons?theme=dark&i=go,rust,typescript&perline=4)
-](https://skillicons.dev)
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?theme=dark&i=go,rust,typescript&perline=4"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?theme=light&i=go,rust,typescript&perline=4"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?theme=dark&i=go,rust,typescript&perline=4" />
+</picture>
 
-[
-![skills](https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,git,github,githubactions&perline=5)
-](https://skillicons.dev)
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,git,github,githubactions&perline=5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?theme=light&i=docker,kubernetes,git,github,githubactions&perline=5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,git,github,githubactions&perline=5" />
+</picture>
 
-[
-![skills](https://skillicons.dev/icons?theme=dark&i=windows,arch,vscode,bash,discord,cloudflare&perline=5)
-](https://skillicons.dev)
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?theme=dark&i=windows,arch,vscode,bash,discord,cloudflare&perline=5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?theme=light&i=windows,arch,vscode,bash,discord,cloudflare&perline=5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?theme=dark&i=windows,arch,vscode,bash,discord,cloudflare&perline=5" />
+</picture>
 
 ### 🎉 Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&theme=light&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&layout=compact" />
+</picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqyuki&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqyuki&theme=dark&utcOffset=8)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&theme=dark&border_radius=5&hide_border=true&icon_color=7fbfff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&border_radius=5&hide_border=true&icon_color=7fbfff"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&border_radius=5&hide_border=true&icon_color=7fbfff" />
+</picture>
