@@ -7,15 +7,15 @@ I'm learning to use **Go** more fully.
 ### ✨ Skills
 
 [
-![skills](https://skillicons.dev/icons?theme=dark&i=go,rust,typescript&perline=4)
+![skills](https://skillicons.dev/icons?theme=light&i=go,rust,typescript&perline=4)
 ](https://skillicons.dev)
 
 [
-![skills](https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,git,github,githubactions&perline=5)
+![skills](https://skillicons.dev/icons?theme=light&i=docker,kubernetes,git,github,githubactions&perline=5)
 ](https://skillicons.dev)
 
 [
-![skills](https://skillicons.dev/icons?theme=dark&i=windows,arch,vscode,bash,discord,cloudflare&perline=5)
+![skills](https://skillicons.dev/icons?theme=light&i=windows,arch,vscode,bash,discord,cloudflare&perline=5)
 ](https://skillicons.dev)
 
 ### 🎉 Activity
