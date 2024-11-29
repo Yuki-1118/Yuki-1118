@@ -11,22 +11,13 @@
 
 <div align="left">
   <h3>Languages / Frameworks</h3>
-  <picture>
-    <source srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=golang,rust,typescript,bun" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=golang,rust,typescript,bun" />
-  </picture>
+  <img src="https://skillicons.dev/icons?theme=light&perline=4&i=golang,rust,typescript,bun" />
 
   <h3>Infrastructure / Middleware</h3>
-  <picture>
-    <source srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=cloudflare,kubernetes,postgresql,redis" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=cloudflare,kubernetes,postgresql,redis" />
-  </picture>
+  <img src="https://skillicons.dev/icons?theme=light&perline=4&i=cloudflare,kubernetes,postgresql,redis" />
 
   <h3>Development</h3>
-  <picture>
-    <source srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=vscode,linux,bash,docker,notion,git,github" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=vscode,linux,bash,docker,notion,git,github" />
-  </picture>
+  <img src="https://skillicons.dev/icons?theme=light&perline=4&i=vscode,linux,bash,docker,notion,git,github" />
 </div>
 
 <h2 align="center">Activity</h2>
