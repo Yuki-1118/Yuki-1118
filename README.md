@@ -1,45 +1,60 @@
-### Hey 👋, I'm aqyuki
+<h2 align="center">Hey 👋, I'm aqyuki</h2>
 
-I'm a student.\
-I love [Go](https://go.dev/) and [hololive](https://hololivepro.com/).\
-I'm learning to use **Go** more fully.
+[Go](https://go.dev/)と[Docker](https://www.docker.com/)が好きなエンジニア見習いです．
 
-### ✨ Skills
+- Goを書きます．
+- RustとTypeScriptも書きます．
+- Dockerが好きです．もっと詳しくなりたい．
+- Linux user
 
-[
-![skills](https://skillicons.dev/icons?theme=light&i=go,rust,typescript&perline=4)
-](https://skillicons.dev)
+<h2 align="center">Skills</h2>
 
-[
-![skills](https://skillicons.dev/icons?theme=light&i=docker,kubernetes,git,github,githubactions&perline=5)
-](https://skillicons.dev)
+<div align="left">
+  <h3>Languages / Frameworks</h3>
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=golang,rust,typescript,bun"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=golang,rust,typescript,bun" />
+  </picture>
 
-[
-![skills](https://skillicons.dev/icons?theme=light&i=windows,arch,vscode,bash,discord,cloudflare&perline=5)
-](https://skillicons.dev)
+  <h3>Infrastructure / Middleware</h3>
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=cloudflare,kubernetes,postgresql,redis"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=cloudflare,kubernetes,postgresql,redis" />
+  </picture>
 
-### 🎉 Activity
+  <h3>Development</h3>
+  <picture>
+    <source
+      srcset="https://skillicons.dev/icons?theme=dark&perline=4&i=vscode,linux,bash,docker,notion,git,github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://skillicons.dev/icons?theme=light&perline=4&i=vscode,linux,bash,docker,notion,git,github" />
+  </picture>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&theme=light&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqyuki&show_icons=true&locale=en&hide_border=true&layout=compact" />
-</picture>
+<h2 align="center">Activity</h2>
+<div align="left">
+  <h3>Most used languages</h3>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&theme=dark&username=aqyuki"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&theme=light&username=aqyuki">
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&theme=dark&border_radius=5&hide_border=true&icon_color=7fbfff"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&border_radius=5&hide_border=true&icon_color=7fbfff"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aqyuki&show_icons=true&border_radius=5&hide_border=true&icon_color=7fbfff" />
-</picture>
+  <h3>GitHub Status</h3>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?show_icons=true&theme=dark&username=aqyuki"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=light&username=aqyuki">
+  </picture>
+</div>
